@@ -22,6 +22,11 @@ Obelix is a platform for creating and managing smart contracts
 [Obelix repo](https://github.com/rndflo/obelix)
 
 
+## Cryptopedia
+
+DApp for interacting with blockchains, smart-contracts and cryptocurrencies
+[Cryptopedia repo](https://github.com/rndflo/cryptopedia)
+
 ## Donations
 
 Please feel free to donate to the following addresses
