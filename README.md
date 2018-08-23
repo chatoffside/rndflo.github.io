@@ -5,4 +5,4 @@
 
 Bigchain is a private ethereum blockchain
 
-[https://github.com/rndflo/bigchain]
+[Bigchain repo](https://github.com/rndflo/bigchain)
