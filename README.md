@@ -1,5 +1,8 @@
 # rndflo.github.io
 
+Link to RNDflo github repo 
+
+[Github repo](https://github.com/rndflo)
 
 ## Bigchain
 
@@ -8,12 +11,11 @@ Bigchain is a private ethereum blockchain
 [Bigchain repo](https://github.com/rndflo/bigchain)
 
 
-## Github
+## RNDflo-sample-smart-contracts
 
-Link to RNDflo github repo 
+RNDflo-sample-smart-contracts is a set of smart contracts written in Solidity for development, testing and deployment purposes.
 
-[Github repo](https://github.com/rndflo)
-
+[Repo](https://github.com/rndflo/rndflo-sample-smart-contracts)
 
 ## Obelix
 
