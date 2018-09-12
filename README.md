@@ -4,6 +4,19 @@ Link to RNDflo github repo
 
 [Github repo](https://github.com/rndflo)
 
+## SmartICO
+SmartICO is a mechanism for launching an ICO using smart contracts on the blockchain
+[SmartICO](https://github.com/rndflo/smartico)
+
+## SmartPlasma
+SmartPlasma is a scaling mechanism for Ethereum blockchain
+[SmartPlasma](https://github.com/rndflo/smartplasma)
+
+## ICOcabinet
+ICO cabinet is an open source dapp for launching ICOs written in Node
+[ICOcabinet](https://github.com/rndflo/icocabinet)
+
+
 ## Bigchain
 
 Bigchain is a private ethereum blockchain
