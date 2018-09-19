@@ -4,6 +4,9 @@ Link to RNDflo github repo
 
 [Github repo](https://github.com/rndflo)
 
+## RealSmart | Putting Real-Estate on the Blockchain Using Smart Contracts
+[Real_Smart_Whitepaper.pdf](https://github.com/rndflo/rndflo.github.io/blob/master/whitepaper_real_estate_on_the_blockchain.pdf)
+
 ## SmartICO
 SmartICO is a mechanism for launching an ICO using smart contracts on the blockchain
 [SmartICO](https://github.com/rndflo/smartico)
