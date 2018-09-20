@@ -1,0 +1,28 @@
+\documentclass{article}
+\usepackage[left=1.5cm, right=1.5cm, top=2cm]{geometry}
+
+\makeatletter
+\def\@seccntformat#1{%
+  \expandafter\ifx\csname c@#1\endcsname\c@section\else
+  \csname the#1\endcsname\quad
+  \fi}
+\makeatother
+
+\usepackage{parskip}
+
+
+\author{Arunabh Das \\ {das@rndflo.com}
+   \and Randy McGuire \\ {randymcguire@gmail.com}}
+
+\title{SmartSuite | An end-to-end launchpad for launching token-crowd-sales}
+\date{\vspace{-5ex}}
+
+\begin{document}
+
+\maketitle
+
+\section{Background}
+SmartSuite is an end-to-end launchpad for launching your token-crowd-sales.
+
+
+\end{document}
