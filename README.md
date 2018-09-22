@@ -7,6 +7,15 @@ Link to RNDflo github repo
 ## RealSmart | Putting Real-Estate on the Blockchain Using Smart Contracts
 [Real_Smart_Whitepaper.pdf](https://github.com/rndflo/rndflo.github.io/blob/master/whitepaper_real_estate_on_the_blockchain.pdf)
 
+## SmartSuite
+SmartSuite is a way to auction real-estate
+[SmartSuite](https://github.com/rndflo/smartsuite)
+
+
+## SmartStack
+SmartStack is a platform for transacting on the ethereum blockchain
+[SmartStack](https://github.com/rndflo/smartstack)
+
 ## SmartICO
 SmartICO is a mechanism for launching an ICO using smart contracts on the blockchain
 [SmartICO](https://github.com/rndflo/smartico)
